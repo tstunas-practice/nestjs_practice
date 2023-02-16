@@ -1,0 +1,13 @@
+{
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true,
+    "source.sortImports": false
+  },
+  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.files.associations": {
+    "*.config.ts": "settings",
+  },
+}
